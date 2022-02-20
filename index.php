@@ -7,5 +7,5 @@ $date = Carbon::now();
 
 echo $date->toDayDateTimeString();
 
-echo "Hiii !!!!!!!";
+echo "Hiii !!!!!!! testg";
 ?>
