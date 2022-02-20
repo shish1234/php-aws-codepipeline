@@ -6,4 +6,6 @@ use Carbon\Carbon;
 $date = Carbon::now();
 
 echo $date->toDayDateTimeString();
+
+echo "Hiii !!!!!!!";
 ?>
